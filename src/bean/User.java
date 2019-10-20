@@ -1,4 +1,4 @@
-package bane;
+package bean;
 
 public class User {
     private String name;
