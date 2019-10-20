@@ -13,9 +13,8 @@ public class Main {
         list.add("1");
         list.add("2");
         list.add("3");
-        list.forEach((e)->{
-            System.out.println(e);
-        });
+        System.out.println("修改了文件");
+
 
     }
 }
