@@ -14,6 +14,7 @@ public class Main {
         list.add("2");
         list.add("3");
         System.out.println("修改了文件");
+        System.out.println("我是新成员");
 
 
     }
